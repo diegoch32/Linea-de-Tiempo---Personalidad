@@ -3,6 +3,11 @@
     "text": {
       "headline": "Historia de la Psicología de la Personalidad",
       "text": "Evolución histórica del concepto de personalidad: desde los temperamentos griegos hasta los modelos sociocognitivos e integradores contemporáneos (Basado en Montaño et al., 2009 y Bermúdez et al., 2012)."
+    },
+    "media": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Phrenology_diagram.png/800px-Phrenology_diagram.png",
+      "caption": "Ilustración antigua de frenología. Aunque pseudocientífica, representa los primeros intentos de localizar rasgos de personalidad en la biología.",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Phrenology_diagram.png/320px-Phrenology_diagram.png"
     }
   },
   "eras": [
@@ -75,6 +80,11 @@
       "group": "Antecedentes",
       "background": {
         "color": "#0EA5E9"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hippocrates_rubens.jpg/800px-Hippocrates_rubens.jpg",
+        "caption": "Grabado de Hipócrates. (Dominio Público)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hippocrates_rubens.jpg/320px-Hippocrates_rubens.jpg"
       }
     },
     {
@@ -89,6 +99,11 @@
       "group": "Antecedentes",
       "background": {
         "color": "#0EA5E9"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/800px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+        "caption": "Busto de Cicerón, Museos Capitolinos, Roma. (CC BY-SA 4.0)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/320px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg"
       }
     },
     {
@@ -103,6 +118,11 @@
       "group": "Antecedentes",
       "background": {
         "color": "#0EA5E9"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Boethius_initial_consolation_philosophy.jpg/627px-Boethius_initial_consolation_philosophy.jpg",
+        "caption": "Ilustración medieval de Boecio en 'La Consolación de la Filosofía'. (Dominio Público)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Boethius_initial_consolation_philosophy.jpg/320px-Boethius_initial_consolation_philosophy.jpg"
       }
     },
     {
@@ -116,6 +136,11 @@
       "group": "Teorías Clásicas",
       "background": {
         "color": "#8B5CF6"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/800px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
+        "caption": "Sigmund Freud, fotografiado por Max Halberstadt. (Dominio Público)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/320px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg"
       }
     },
     {
@@ -129,6 +154,11 @@
       "group": "Formalización",
       "background": {
         "color": "#8B5CF6"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gordon_Allport.jpg",
+        "caption": "Gordon Allport, padre de la psicología de la personalidad moderna. (Dominio Público/Fair Use)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gordon_Allport.jpg"
       }
     },
     {
@@ -143,6 +173,11 @@
       "group": "Modelo Internalista",
       "background": {
         "color": "#8B5CF6"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/Raymond_Cattell.jpg",
+        "caption": "Raymond B. Cattell, pionero del análisis factorial en personalidad. (Fair Use)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c2/Raymond_Cattell.jpg"
       }
     },
     {
@@ -156,6 +191,11 @@
       "group": "Modelo Internalista",
       "background": {
         "color": "#8B5CF6"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hans_Eysenck.jpg/800px-Hans_Eysenck.jpg",
+        "caption": "Hans Eysenck en 1992. (CC BY-SA 4.0)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hans_Eysenck.jpg/320px-Hans_Eysenck.jpg"
       }
     },
     {
@@ -169,6 +209,11 @@
       "group": "Transición Cognitiva",
       "background": {
         "color": "#F59E0B"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/80/George_Kelly_psychologist.jpg",
+        "caption": "George Kelly, creador de la teoría de los constructos personales. (Fair Use)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/80/George_Kelly_psychologist.jpg"
       }
     },
     {
@@ -182,6 +227,11 @@
       "group": "Crisis y Situacionismo",
       "background": {
         "color": "#F59E0B"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walter_Mischel.jpg/800px-Walter_Mischel.jpg",
+        "caption": "Walter Mischel, cuya crítica inició el debate persona-situación. (CC BY-SA 4.0)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walter_Mischel.jpg/320px-Walter_Mischel.jpg"
       }
     },
     {
@@ -195,6 +245,11 @@
       "group": "Modelo Interaccionista",
       "background": {
         "color": "#10B981"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Albert_Bandura_Psychologist.jpg/800px-Albert_Bandura_Psychologist.jpg",
+        "caption": "Albert Bandura, figura clave de la teoría sociocognitiva. (CC BY-SA 4.0)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Albert_Bandura_Psychologist.jpg/320px-Albert_Bandura_Psychologist.jpg"
       }
     },
     {
@@ -209,6 +264,11 @@
       "group": "Integración",
       "background": {
         "color": "#10B981"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Big_Five_personality_traits.png/800px-Big_Five_personality_traits.png",
+        "caption": "Diagrama representativo de los Cinco Grandes Factores de la Personalidad (OCEAN). (Dominio Público)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Big_Five_personality_traits.png/320px-Big_Five_personality_traits.png"
       }
     },
     {
@@ -222,6 +282,11 @@
       "group": "Integración",
       "background": {
         "color": "#10B981"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cognitive-Affective_Processing_System.png/800px-Cognitive-Affective_Processing_System.png",
+        "caption": "Esquema del modelo CAPS propuesto por Mischel y Shoda, mostrando la interacción entre unidades cognitivo-afectivas y la situación. (CC BY-SA 4.0)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cognitive-Affective_Processing_System.png/320px-Cognitive-Affective_Processing_System.png"
       }
     },
     {
@@ -235,6 +300,11 @@
       "group": "Contemporáneo",
       "background": {
         "color": "#64748B"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Human_brain_fMRI_activity.jpg/800px-Human_brain_fMRI_activity.jpg",
+        "caption": "Imagen de fMRI (resonancia magnética funcional). Los modelos contemporáneos buscan integrar los sustratos biológicos y cerebrales con la experiencia individual. (Dominio Público - NIH)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Human_brain_fMRI_activity.jpg/320px-Human_brain_fMRI_activity.jpg"
       }
     },
     {
@@ -248,6 +318,11 @@
       "group": "Contemporáneo",
       "background": {
         "color": "#64748B"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/My_Life_Story_book.jpg/800px-My_Life_Story_book.jpg",
+        "caption": "La 'Narrativa de Vida' (identidad narrativa) es un componente central del modelo integrador de McAdams, entendiendo la personalidad como una historia en evolución. (CC0)",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/My_Life_Story_book.jpg/320px-My_Life_Story_book.jpg"
       }
     }
   ]
