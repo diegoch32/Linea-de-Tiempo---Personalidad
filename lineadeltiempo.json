@@ -1,0 +1,254 @@
+{
+  "title": {
+    "text": {
+      "headline": "Historia de la Psicología de la Personalidad",
+      "text": "Evolución histórica del concepto de personalidad: desde los temperamentos griegos hasta los modelos sociocognitivos e integradores contemporáneos (Basado en Montaño et al., 2009 y Bermúdez et al., 2012)."
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": "-460"
+      },
+      "end_date": {
+        "year": "1930"
+      },
+      "text": {
+        "headline": "Etapa Pre-Científica y Antecedentes"
+      },
+      "background": {
+        "color": "#0EA5E9"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1930"
+      },
+      "end_date": {
+        "year": "1960"
+      },
+      "text": {
+        "headline": "Formalización y Modelo Internalista (Rasgos)"
+      },
+      "background": {
+        "color": "#8B5CF6"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1960"
+      },
+      "end_date": {
+        "year": "1980"
+      },
+      "text": {
+        "headline": "Modelo Situacionista y Crisis"
+      },
+      "background": {
+        "color": "#F59E0B"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1980"
+      },
+      "end_date": {
+        "year": "2025"
+      },
+      "text": {
+        "headline": "Modelo Interaccionista y Sociocognitivo"
+      },
+      "background": {
+        "color": "#10B981"
+      }
+    }
+  ],
+  "events": [
+    {
+      "start_date": {
+        "year": "-400"
+      },
+      "text": {
+        "headline": "La Teoría de los Humores",
+        "text": "<strong>Hipócrates</strong> propone que la personalidad (temperamento) está determinada por cuatro humores corporales: sangre, flema, bilis amarilla y bilis negra. [cite_start]Es la primera aproximación biológica a las diferencias individuales[cite: 2]."
+      },
+      "group": "Antecedentes",
+      "background": {
+        "color": "#0EA5E9"
+      }
+    },
+    {
+      "start_date": {
+        "year": "-106"
+      },
+      "display_date": "Siglo I a.C.",
+      "text": {
+        "headline": "Definición de 'Persona'",
+        [cite_start]"text": "<strong>Cicerón</strong> define el término <em>persona</em> enfocándose en cuatro significados: la apariencia ante otros (máscara), el rol social, las cualidades internas y la distinción o dignidad individual[cite: 2]."
+      },
+      "group": "Antecedentes",
+      "background": {
+        "color": "#0EA5E9"
+      }
+    },
+    {
+      "start_date": {
+        "year": "500"
+      },
+      "display_date": "Siglo VI",
+      "text": {
+        "headline": "Boecio: Sustancia Individual",
+        [cite_start]"text": "Sintetiza los conceptos cristianos y clásicos definiendo a la persona como una 'sustancia individual de naturaleza racional', enfatizando la esencia interna sobre la apariencia[cite: 2]."
+      },
+      "group": "Antecedentes",
+      "background": {
+        "color": "#0EA5E9"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1923"
+      },
+      "text": {
+        "headline": "El Modelo Psicodinámico (Freud)",
+        "text": "Aunque previo, se consolida la visión de que la conducta es fruto de fuerzas psicológicas (Ello, Yo, Superyó). [cite_start]<strong>Sigmund Freud</strong> y el psicoanálisis influyen en la idea de una estructura interna determinante[cite: 2]."
+      },
+      "group": "Teorías Clásicas",
+      "background": {
+        "color": "#8B5CF6"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1937"
+      },
+      "text": {
+        "headline": "Formalización de la Disciplina",
+        "text": "Publicación de <em>Personality: A Psychological Interpretation</em> de <strong>Gordon Allport</strong>. [cite_start]Marca el nacimiento formal de la psicología de la personalidad como disciplina científica y autónoma[cite: 3]."
+      },
+      "group": "Formalización",
+      "background": {
+        "color": "#8B5CF6"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1940"
+      },
+      "display_date": "Década de 1940",
+      "text": {
+        "headline": "Teorías de los Rasgos (Cattell)",
+        "text": "<strong>Raymond Cattell</strong> utiliza el análisis factorial para identificar rasgos comunes, agrupándolos en 16 factores (16PF). [cite_start]Representa el auge del <em>Modelo Internalista</em> (la conducta determinada por variables personales)[cite: 2]."
+      },
+      "group": "Modelo Internalista",
+      "background": {
+        "color": "#8B5CF6"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1947"
+      },
+      "text": {
+        "headline": "Modelo PEN (Eysenck)",
+        [cite_start]"text": "<strong>Hans Eysenck</strong> propone un modelo biológico-factorial basado en tres grandes dimensiones: Psicoticismo, Extraversión y Neuroticismo, vinculando la personalidad con el funcionamiento del sistema nervioso[cite: 2]."
+      },
+      "group": "Modelo Internalista",
+      "background": {
+        "color": "#8B5CF6"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1955"
+      },
+      "text": {
+        "headline": "Constructos Personales (Kelly)",
+        "text": "<strong>George Kelly</strong> publica <em>The Psychology of Personal Constructs</em>. [cite_start]Propone que la personalidad se organiza según cómo las personas interpretan o 'construyen' su realidad, anticipando el cognitivismo[cite: 3]."
+      },
+      "group": "Transición Cognitiva",
+      "background": {
+        "color": "#F59E0B"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1968"
+      },
+      "text": {
+        "headline": "Crítica Situacionista (Mischel)",
+        "text": "<strong>Walter Mischel</strong> publica <em>Personality and Assessment</em>. Critica la estabilidad de los rasgos y demuestra que la conducta depende más de la <strong>situación</strong> que de disposiciones internas. [cite_start]Provoca una crisis en la disciplina[cite: 3]."
+      },
+      "group": "Crisis y Situacionismo",
+      "background": {
+        "color": "#F59E0B"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1977"
+      },
+      "text": {
+        "headline": "Aprendizaje Social (Bandura)",
+        "text": "<strong>Albert Bandura</strong> enfatiza la interacción entre la persona y el ambiente (determinismo recíproco). [cite_start]Introduce variables cognitivas como la autoeficacia y el aprendizaje por observación[cite: 2]."
+      },
+      "group": "Modelo Interaccionista",
+      "background": {
+        "color": "#10B981"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1990"
+      },
+      "display_date": "Década de 1990",
+      "text": {
+        "headline": "El Modelo de los Cinco Grandes (Big Five)",
+        "text": "Consolidación del modelo de <strong>Costa y McCrae</strong>. [cite_start]Se establece un consenso sobre cinco factores universales: Apertura, Responsabilidad, Extraversión, Amabilidad y Neuroticismo[cite: 2, 3]."
+      },
+      "group": "Integración",
+      "background": {
+        "color": "#10B981"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1995"
+      },
+      "text": {
+        "headline": "Sistema Cognitivo-Afectivo (CAPS)",
+        "text": "<strong>Mischel y Shoda</strong> proponen el modelo CAPS. [cite_start]Reconcilian rasgos y situaciones: la personalidad es un sistema estable de procesos cognitivos y afectivos que genera patrones de conducta distintivos ante situaciones específicas[cite: 3]."
+      },
+      "group": "Integración",
+      "background": {
+        "color": "#10B981"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2000"
+      },
+      "text": {
+        "headline": "La Ciencia del Individuo",
+        [cite_start]"text": "Autores como <strong>Caprara y Cervone</strong> proponen estudiar la arquitectura de la personalidad integrando biología, contexto social y fenomenología, moviéndose hacia una 'ciencia del individuo' más allá de los rasgos aislados[cite: 3]."
+      },
+      "group": "Contemporáneo",
+      "background": {
+        "color": "#64748B"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2006"
+      },
+      "text": {
+        "headline": "Nuevo Principio Integrador",
+        [cite_start]"text": "<strong>McAdams y Pals</strong> proponen cinco principios para integrar la disciplina: evolución, rasgos disposicionales, adaptaciones características (metas, valores), narrativa de vida (identidad) y el papel de la cultura[cite: 3]."
+      },
+      "group": "Contemporáneo",
+      "background": {
+        "color": "#64748B"
+      }
+    }
+  ]
+}
