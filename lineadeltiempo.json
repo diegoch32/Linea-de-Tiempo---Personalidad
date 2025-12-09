@@ -70,7 +70,7 @@
       },
       "text": {
         "headline": "La Teoría de los Humores",
-        "text": "<p><strong>Hipócrates</strong> establece la primera aproximación biológica a las diferencias individuales, proponiendo que el temperamento depende del equilibrio de fluidos corporales:</p><ul><li>🩸 <strong>Sangre:</strong> Sanguíneo (optimista).</li><li>💧 <strong>Flema:</strong> Flemático (apático).</li><li>🟡 <strong>Bilis Amarilla:</strong> Colérico (irascible).</li><li>⚫ <strong>Bilis Negra:</strong> Melancólico (triste).</li></ul>"
+        "text": "<p><strong>Hipócrates</strong> establece la primera aproximación biológica a las diferencias individuales, proponiendo que el temperamento depende del equilibrio de fluidos corporales:</p><ul><li><strong>Sangre:</strong> Sanguíneo (optimista).</li><li><strong>Flema:</strong> Flemático (apático).</li><li><strong>Bilis Amarilla:</strong> Colérico (irascible).</li><li><strong>Bilis Negra:</strong> Melancólico (triste).</li></ul>"
       },
       "group": "Antecedentes",
       "background": {
@@ -252,3 +252,4 @@
     }
   ]
 }
+
