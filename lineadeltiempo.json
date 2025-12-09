@@ -5,8 +5,8 @@
       "text": "Evolución histórica del concepto de personalidad: desde los temperamentos griegos hasta los modelos sociocognitivos e integradores contemporáneos (Basado en Montaño et al., 2009 y Bermúdez et al., 2012)."
     },
     "media": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Phrenology_diagram.png",
-      "caption": "Ilustración de frenología. Primeros intentos de localizar rasgos."
+      "url": "https://en.wikipedia.org/wiki/Phrenology",
+      "caption": "Artículo de Wikipedia sobre la frenología."
     }
   },
   "eras": [
@@ -81,8 +81,8 @@
         "color": "#0EA5E9"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hippocrates_rubens.jpg",
-        "caption": "Hipócrates (Grabado de Rubens)."
+        "url": "https://en.wikipedia.org/wiki/Hippocrates",
+        "caption": "Hipócrates."
       }
     },
     {
@@ -99,8 +99,8 @@
         "color": "#0EA5E9"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
-        "caption": "Busto de Cicerón."
+        "url": "https://en.wikipedia.org/wiki/Cicero",
+        "caption": "Cicerón."
       }
     },
     {
@@ -117,8 +117,8 @@
         "color": "#0EA5E9"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Boethius_initial_consolation_philosophy.jpg",
-        "caption": "Boecio (Ilustración medieval)."
+        "url": "https://en.wikipedia.org/wiki/Boethius",
+        "caption": "Boecio."
       }
     },
     {
@@ -134,7 +134,7 @@
         "color": "#8B5CF6"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
+        "url": "https://en.wikipedia.org/wiki/Sigmund_Freud",
         "caption": "Sigmund Freud."
       }
     },
@@ -151,7 +151,7 @@
         "color": "#8B5CF6"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gordon_Allport.jpg",
+        "url": "https://en.wikipedia.org/wiki/Gordon_Allport",
         "caption": "Gordon Allport."
       }
     },
@@ -169,8 +169,8 @@
         "color": "#8B5CF6"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Correlation_matrix.png",
-        "caption": "Matriz de correlación (Análisis Factorial)."
+        "url": "https://en.wikipedia.org/wiki/Raymond_Cattell",
+        "caption": "Raymond Cattell."
       }
     },
     {
@@ -186,7 +186,7 @@
         "color": "#8B5CF6"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hans_Eysenck.jpg",
+        "url": "https://en.wikipedia.org/wiki/Hans_Eysenck",
         "caption": "Hans Eysenck."
       }
     },
@@ -203,8 +203,8 @@
         "color": "#F59E0B"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Repertory_grid_blank.png",
-        "caption": "Rejilla de Repertorio (Herramienta de Kelly)."
+        "url": "https://en.wikipedia.org/wiki/George_Kelly_(psychologist)",
+        "caption": "George Kelly."
       }
     },
     {
@@ -220,7 +220,7 @@
         "color": "#F59E0B"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Walter_Mischel.jpg",
+        "url": "https://en.wikipedia.org/wiki/Walter_Mischel",
         "caption": "Walter Mischel."
       }
     },
@@ -237,7 +237,7 @@
         "color": "#10B981"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Albert_Bandura_Psychologist.jpg",
+        "url": "https://en.wikipedia.org/wiki/Albert_Bandura",
         "caption": "Albert Bandura."
       }
     },
@@ -255,7 +255,7 @@
         "color": "#10B981"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Big_Five_personality_traits.png",
+        "url": "https://en.wikipedia.org/wiki/Big_Five_personality_traits",
         "caption": "Modelo de los Cinco Grandes (OCEAN)."
       }
     },
@@ -272,8 +272,8 @@
         "color": "#10B981"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Cognitive-Affective_Processing_System.png",
-        "caption": "Esquema del Sistema CAPS."
+        "url": "https://en.wikipedia.org/wiki/Cognitive-affective_personality_system",
+        "caption": "Sistema cognitivo-afectivo de la personalidad (CAPS)."
       }
     },
     {
@@ -289,8 +289,8 @@
         "color": "#64748B"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Human_brain_fMRI_activity.jpg",
-        "caption": "Neuroimagen funcional (fMRI)."
+        "url": "https://en.wikipedia.org/wiki/Personality_psychology",
+        "caption": "Artículo sobre psicología de la personalidad."
       }
     },
     {
@@ -306,8 +306,8 @@
         "color": "#64748B"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/My_Life_Story_book.jpg",
-        "caption": "Identidad Narrativa."
+        "url": "https://en.wikipedia.org/wiki/Dan_P._McAdams",
+        "caption": "Dan P. McAdams y el enfoque narrativo de la personalidad."
       }
     }
   ],
