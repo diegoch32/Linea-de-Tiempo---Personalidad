@@ -1,12 +1,8 @@
 {
   "title": {
     "text": {
-      "headline": "Historia de la Psicología de la Personalidad",
-      "text": "Evolución histórica del concepto de personalidad: desde los temperamentos griegos hasta los modelos sociocognitivos e integradores contemporáneos (Basado en Montaño et al., 2009 y Bermúdez et al., 2012)."
-    },
-    "media": {
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PhrenologyPix_CroppedUpperFront.jpg",
-      "caption": "Ilustración clásica de frenología (localización de facultades en el cráneo)."
+      "headline": "<span style='font-family:Georgia, serif; font-size:32px;'>Historia de la Psicología de la Personalidad</span>",
+      "text": "<p style='font-size:16px;'>Una travesía intelectual desde los temperamentos griegos hasta la ciencia integradora contemporánea.</p><p><em>Basado en: Montaño et al. (2009) y Bermúdez et al. (2012).</em></p>"
     }
   },
   "eras": [
@@ -21,7 +17,7 @@
         "headline": "Etapa Pre-Científica y Antecedentes"
       },
       "background": {
-        "color": "#0EA5E9"
+        "color": "#0284c7"
       }
     },
     {
@@ -35,7 +31,7 @@
         "headline": "Formalización y Modelo Internalista (Rasgos)"
       },
       "background": {
-        "color": "#8B5CF6"
+        "color": "#7c3aed"
       }
     },
     {
@@ -46,10 +42,10 @@
         "year": "1980"
       },
       "text": {
-        "headline": "Modelo Situacionista y Crisis"
+        "headline": "Crisis del Rasgo y Situacionismo"
       },
       "background": {
-        "color": "#F59E0B"
+        "color": "#d97706"
       }
     },
     {
@@ -60,10 +56,10 @@
         "year": "2025"
       },
       "text": {
-        "headline": "Modelo Interaccionista y Sociocognitivo"
+        "headline": "Modelos Integradores y Sociocognitivos"
       },
       "background": {
-        "color": "#10B981"
+        "color": "#059669"
       }
     }
   ],
@@ -74,15 +70,11 @@
       },
       "text": {
         "headline": "La Teoría de los Humores",
-        "text": "<strong>Hipócrates</strong> propone que la personalidad (temperamento) está determinada por cuatro humores corporales: sangre, flema, bilis amarilla y bilis negra. Es la primera aproximación biológica a las diferencias individuales."
+        "text": "<p><strong>Hipócrates</strong> establece la primera aproximación biológica a las diferencias individuales, proponiendo que el temperamento depende del equilibrio de fluidos corporales:</p><ul><li>🩸 <strong>Sangre:</strong> Sanguíneo (optimista).</li><li>💧 <strong>Flema:</strong> Flemático (apático).</li><li>🟡 <strong>Bilis Amarilla:</strong> Colérico (irascible).</li><li>⚫ <strong>Bilis Negra:</strong> Melancólico (triste).</li></ul>"
       },
       "group": "Antecedentes",
       "background": {
-        "color": "#0EA5E9"
-      },
-      "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hippocrates_rubens.jpg",
-        "caption": "Grabado clásico de Hipócrates."
+        "color": "#0ea5e9"
       }
     },
     {
@@ -91,16 +83,12 @@
       },
       "display_date": "Siglo I a.C.",
       "text": {
-        "headline": "Definición de 'Persona'",
-        "text": "<strong>Cicerón</strong> define el término <em>persona</em> enfocándose en cuatro significados: la apariencia ante otros (máscara), el rol social, las cualidades internas y la distinción o dignidad individual."
+        "headline": "La conceptualización de 'Persona'",
+        "text": "<p><strong>Cicerón</strong> ofrece una definición seminal del término latino <em>persona</em>, distinguiendo cuatro sentidos que marcarían la historia:</p><ol><li>La máscara (apariencia externa).</li><li>El rol social o estatus.</li><li>El conjunto de cualidades internas (psicológicas).</li><li>La distinción y dignidad del individuo.</li></ol>"
       },
       "group": "Antecedentes",
       "background": {
-        "color": "#0EA5E9"
-      },
-      "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
-        "caption": "Busto de Cicerón en los Museos Capitolinos."
+        "color": "#0ea5e9"
       }
     },
     {
@@ -109,16 +97,12 @@
       },
       "display_date": "Siglo VI",
       "text": {
-        "headline": "Boecio: Sustancia Individual",
-        "text": "Sintetiza los conceptos cristianos y clásicos definiendo a la persona como una 'sustancia individual de naturaleza racional', enfatizando la esencia interna sobre la apariencia."
+        "headline": "Boecio: La Sustancia Racional",
+        "text": "<p>En el paso al pensamiento medieval, <strong>Boecio</strong> define a la persona como:</p><blockquote>'Sustancia individual de naturaleza racional'.</blockquote><p>Esto desplaza el foco desde la apariencia (la máscara) hacia la <strong>esencia interna</strong> y la capacidad de razón, fundamentando la individualidad.</p>"
       },
       "group": "Antecedentes",
       "background": {
-        "color": "#0EA5E9"
-      },
-      "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boethius_initial_consolation_philosophy.jpg",
-        "caption": "Boecio enseñando a sus discípulos (miniatura medieval)."
+        "color": "#0ea5e9"
       }
     },
     {
@@ -126,16 +110,12 @@
         "year": "1923"
       },
       "text": {
-        "headline": "El Modelo Psicodinámico (Freud)",
-        "text": "Aunque previo, se consolida la visión de que la conducta es fruto de fuerzas psicológicas (Ello, Yo, Superyó). <strong>Sigmund Freud</strong> y el psicoanálisis influyen en la idea de una estructura interna determinante."
+        "headline": "El Modelo Psicodinámico",
+        "text": "<p>Aunque sus inicios son previos, para esta época se consolida el modelo estructural de <strong>Sigmund Freud</strong>.</p><p>La personalidad se entiende como el resultado de una lucha dinámica entre tres instancias internas:</p><ul><li><strong>Ello:</strong> Impulsos primitivos.</li><li><strong>Yo:</strong> Mediador con la realidad.</li><li><strong>Superyó:</strong> Moralidad internalizada.</li></ul><p><em>Aporte:</em> La conducta está determinada por fuerzas intrapsíquicas, muchas veces inconscientes.</p>"
       },
       "group": "Teorías Clásicas",
       "background": {
-        "color": "#8B5CF6"
-      },
-      "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
-        "caption": "Retrato de Sigmund Freud por Max Halberstadt."
+        "color": "#8b5cf6"
       }
     },
     {
@@ -143,16 +123,12 @@
         "year": "1937"
       },
       "text": {
-        "headline": "Formalización de la Disciplina",
-        "text": "Publicación de <em>Personality: A Psychological Interpretation</em> de <strong>Gordon Allport</strong>. Marca el nacimiento formal de la psicología de la personalidad como disciplina científica y autónoma."
+        "headline": "Nacimiento de la Disciplina",
+        "text": "<p>Hito fundacional. <strong>Gordon Allport</strong> publica <em>'Personality: A Psychological Interpretation'</em>.</p><p>Define la personalidad como la <em>'organización dinámica'</em> de los sistemas psicofísicos. Introduce la distinción crucial entre:</p><ul><li><strong>Enfoque Idiográfico:</strong> Estudio de lo único en cada individuo.</li><li><strong>Enfoque Nomotético:</strong> Búsqueda de leyes generales.</li></ul>"
       },
       "group": "Formalización",
       "background": {
-        "color": "#8B5CF6"
-      },
-      "media": {
-        "url": "https://en.wikipedia.org/wiki/Gordon_Allport",
-        "caption": "Artículo sobre Gordon Allport (referencia a su obra)."
+        "color": "#8b5cf6"
       }
     },
     {
@@ -161,16 +137,12 @@
       },
       "display_date": "Década de 1940",
       "text": {
-        "headline": "Teorías de los Rasgos (Cattell)",
-        "text": "<strong>Raymond Cattell</strong> utiliza el análisis factorial para identificar rasgos comunes, agrupándolos en 16 factores (16PF). Representa el auge del <em>Modelo Internalista</em> (la conducta determinada por variables personales)."
+        "headline": "Enfoque Léxico y Factorial",
+        "text": "<p><strong>Raymond Cattell</strong> aplica el método estadístico del <em>Análisis Factorial</em> para reducir miles de palabras que describen la personalidad a una estructura manejable.</p><p>Distingue entre <strong>rasgos superficiales</strong> y <strong>rasgos de origen</strong>, culminando en el cuestionario <strong>16PF</strong>. Consolida la visión de que la personalidad se puede medir cuantitativamente.</p>"
       },
       "group": "Modelo Internalista",
       "background": {
-        "color": "#8B5CF6"
-      },
-      "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Raymond_Cattell.jpg",
-        "caption": "Retrato de Raymond Cattell."
+        "color": "#8b5cf6"
       }
     },
     {
@@ -178,16 +150,12 @@
         "year": "1947"
       },
       "text": {
-        "headline": "Modelo PEN (Eysenck)",
-        "text": "<strong>Hans Eysenck</strong> propone un modelo biológico-factorial basado en tres grandes dimensiones: Psicoticismo, Extraversión y Neuroticismo, vinculando la personalidad con el funcionamiento del sistema nervioso."
+        "headline": "Modelo Biológico-Factorial (PEN)",
+        "text": "<p><strong>Hans Eysenck</strong> simplifica la estructura de la personalidad en tres grandes superfactores con base biológica:</p><ul><li><strong>P</strong>sicoticismo (Control de impulsos).</li><li><strong>E</strong>xtraversión (Activación cortical / SARA).</li><li><strong>N</strong>euroticismo (Sistema Límbico / Ansiedad).</li></ul><p>Plantea una jerarquía: <em>Respuestas específicas → Hábitos → Rasgos → Tipos</em>.</p>"
       },
       "group": "Modelo Internalista",
       "background": {
-        "color": "#8B5CF6"
-      },
-      "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans.Eysenck.jpg",
-        "caption": "Retrato de Hans Eysenck."
+        "color": "#8b5cf6"
       }
     },
     {
@@ -195,16 +163,12 @@
         "year": "1955"
       },
       "text": {
-        "headline": "Constructos Personales (Kelly)",
-        "text": "<strong>George Kelly</strong> publica <em>The Psychology of Personal Constructs</em>. Propone que la personalidad se organiza según cómo las personas interpretan o 'construyen' su realidad, anticipando el cognitivismo."
+        "headline": "El Hombre como Científico",
+        "text": "<p><strong>George Kelly</strong> rompe con el conductismo y el psicoanálisis en <em>'The Psychology of Personal Constructs'</em>.</p><p>Propone que las personas no son víctimas de sus impulsos ni de su entorno, sino <strong>científicos activos</strong> que construyen hipótesis (constructos) para anticipar eventos. Es el preludio de la revolución cognitiva.</p>"
       },
       "group": "Transición Cognitiva",
       "background": {
-        "color": "#F59E0B"
-      },
-      "media": {
-        "url": "https://en.wikipedia.org/wiki/Personal_construct_theory",
-        "caption": "Artículo sobre la teoría de los constructos personales (incluye ejemplos de rejilla de repertorio)."
+        "color": "#f59e0b"
       }
     },
     {
@@ -212,16 +176,12 @@
         "year": "1968"
       },
       "text": {
-        "headline": "Crítica Situacionista (Mischel)",
-        "text": "<strong>Walter Mischel</strong> publica <em>Personality and Assessment</em>. Critica la estabilidad de los rasgos y demuestra que la conducta depende más de la <strong>situación</strong> que de disposiciones internas. Provoca una crisis en la disciplina."
+        "headline": "La Crisis del Coeficiente 0.30",
+        "text": "<p><strong>Walter Mischel</strong> sacude la disciplina con <em>'Personality and Assessment'</em>.</p><p>Demuestra que los rasgos de personalidad apenas predicen el 10% de la varianza de la conducta (correlación de 0.30). Argumenta que la <strong>situación</strong> específica tiene más peso que las supuestas disposiciones internas, iniciando el debate <em>Persona vs. Situación</em>.</p>"
       },
       "group": "Crisis y Situacionismo",
       "background": {
-        "color": "#F59E0B"
-      },
-      "media": {
-        "url": "https://en.wikipedia.org/wiki/Walter_Mischel",
-        "caption": "Artículo sobre Walter Mischel y su trabajo en personalidad y evaluación."
+        "color": "#f59e0b"
       }
     },
     {
@@ -229,16 +189,12 @@
         "year": "1977"
       },
       "text": {
-        "headline": "Aprendizaje Social (Bandura)",
-        "text": "<strong>Albert Bandura</strong> enfatiza la interacción entre la persona y el ambiente (determinismo recíproco). Introduce variables cognitivas como la autoeficacia y el aprendizaje por observación."
+        "headline": "Determinismo Recíproco",
+        "text": "<p><strong>Albert Bandura</strong> propone una solución al debate:</p><blockquote>'La conducta, los factores personales (cognitivos) y el ambiente interactúan constantemente y se determinan entre sí'.</blockquote><p>Introduce el concepto de <strong>Autoeficacia</strong>: la creencia en la propia capacidad para organizar y ejecutar acciones.</p>"
       },
       "group": "Modelo Interaccionista",
       "background": {
-        "color": "#10B981"
-      },
-      "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Bandura_Psychologist.jpg",
-        "caption": "Retrato de Albert Bandura."
+        "color": "#10b981"
       }
     },
     {
@@ -247,16 +203,12 @@
       },
       "display_date": "Década de 1990",
       "text": {
-        "headline": "El Modelo de los Cinco Grandes (Big Five)",
-        "text": "Consolidación del modelo de <strong>Costa y McCrae</strong>. Se establece un consenso sobre cinco factores universales: Apertura, Responsabilidad, Extraversión, Amabilidad y Neuroticismo."
+        "headline": "Consenso: Los Cinco Grandes",
+        "text": "<p>Tras décadas de debate, se establece el modelo <strong>Big Five</strong> (Costa y McCrae) como la taxonomía universal de la personalidad (OCEAN):</p><ul><li><strong>O</strong>penness (Apertura).</li><li><strong>C</strong>onscientiousness (Responsabilidad).</li><li><strong>E</strong>xtraversion (Extraversión).</li><li><strong>A</strong>greeableness (Amabilidad).</li><li><strong>N</strong>euroticism (Neuroticismo).</li></ul>"
       },
       "group": "Integración",
       "background": {
-        "color": "#10B981"
-      },
-      "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Big_Five_1.png",
-        "caption": "Esquema visual de los Cinco Grandes (OCEAN)."
+        "color": "#10b981"
       }
     },
     {
@@ -264,16 +216,12 @@
         "year": "1995"
       },
       "text": {
-        "headline": "Sistema Cognitivo-Afectivo (CAPS)",
-        "text": "<strong>Mischel y Shoda</strong> proponen el modelo CAPS. Reconcilian rasgos y situaciones: la personalidad es un sistema estable de procesos cognitivos y afectivos que genera patrones de conducta distintivos ante situaciones específicas."
+        "headline": "Modelo CAPS",
+        "text": "<p><strong>Mischel y Shoda</strong> reconcilian el rasgo y la situación con el <em>Sistema Cognitivo-Afectivo de Personalidad</em>.</p><p>La personalidad no es solo cómo actuamos en promedio, sino nuestra <strong>firma conductual</strong>:</p><blockquote>'SI sucede la situación A, ENTONCES la persona hace X; pero SI sucede B, ENTONCES hace Y'.</blockquote>"
       },
       "group": "Integración",
       "background": {
-        "color": "#10B981"
-      },
-      "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cognitive-Affective_Processing_System.png",
-        "caption": "Diagrama del Sistema Cognitivo-Afectivo de la Personalidad (CAPS)."
+        "color": "#10b981"
       }
     },
     {
@@ -281,16 +229,12 @@
         "year": "2000"
       },
       "text": {
-        "headline": "La Ciencia del Individuo",
-        "text": "Autores como <strong>Caprara y Cervone</strong> proponen estudiar la arquitectura de la personalidad integrando biología, contexto social y fenomenología, moviéndose hacia una 'ciencia del individuo' más allá de los rasgos aislados."
+        "headline": "La Arquitectura de la Personalidad",
+        "text": "<p><strong>Cervone y Caprara</strong> abogan por una <em>'Ciencia del Individuo'</em>.</p><p>Critican la psicología que solo estudia variables aisladas. Proponen integrar:</p><ul><li>Sistemas biológicos.</li><li>Contexto social.</li><li>Fenomenología (experiencia subjetiva).</li><li>Estructuras de conocimiento (el 'Self').</li></ul>"
       },
       "group": "Contemporáneo",
       "background": {
-        "color": "#64748B"
-      },
-      "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Human_brain_fMRI_activity.jpg",
-        "caption": "Actividad cerebral medida con fMRI, emblema de la integración biológica en el estudio de la personalidad."
+        "color": "#64748b"
       }
     },
     {
@@ -298,18 +242,13 @@
         "year": "2006"
       },
       "text": {
-        "headline": "Nuevo Principio Integrador",
-        "text": "<strong>McAdams y Pals</strong> proponen cinco principios para integrar la disciplina: evolución, rasgos disposicionales, adaptaciones características (metas, valores), narrativa de vida (identidad) y el papel de la cultura."
+        "headline": "La Nueva Integración (McAdams)",
+        "text": "<p><strong>Dan McAdams</strong> propone que para conocer realmente a una persona necesitamos tres niveles:</p><ol><li><strong>Rasgos Disposicionales:</strong> (El 'actor', lo que hace).</li><li><strong>Adaptaciones Características:</strong> (Metas, valores, planes).</li><li><strong>Identidad Narrativa:</strong> (El 'autor', la historia que se cuenta a sí mismo para dar sentido a su vida).</li></ol>"
       },
       "group": "Contemporáneo",
       "background": {
-        "color": "#64748B"
-      },
-      "media": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/My_Life_Story_book.jpg",
-        "caption": "Diario \"My Life Story\", como metáfora de la identidad narrativa en McAdams."
+        "color": "#64748b"
       }
     }
-  ],
-  "scale": "human"
+  ]
 }
