@@ -5,8 +5,8 @@
       "text": "Evolución histórica del concepto de personalidad: desde los temperamentos griegos hasta los modelos sociocognitivos e integradores contemporáneos (Basado en Montaño et al., 2009 y Bermúdez et al., 2012)."
     },
     "media": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Phrenology_diagram.png",
-      "caption": "Ilustración de frenología. Representa los primeros intentos de localizar rasgos en la biología."
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Phrenology_diagram.png/640px-Phrenology_diagram.png",
+      "caption": "Ilustración de frenología. Primeros intentos de localizar rasgos."
     }
   },
   "eras": [
@@ -81,7 +81,7 @@
         "color": "#0EA5E9"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hippocrates_rubens.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hippocrates_rubens.jpg/640px-Hippocrates_rubens.jpg",
         "caption": "Hipócrates (Grabado de Rubens)."
       }
     },
@@ -99,7 +99,7 @@
         "color": "#0EA5E9"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/640px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
         "caption": "Busto de Cicerón."
       }
     },
@@ -117,7 +117,7 @@
         "color": "#0EA5E9"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Boethius_initial_consolation_philosophy.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Boethius_initial_consolation_philosophy.jpg/600px-Boethius_initial_consolation_philosophy.jpg",
         "caption": "Boecio (Ilustración medieval)."
       }
     },
@@ -134,7 +134,7 @@
         "color": "#8B5CF6"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/640px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
         "caption": "Sigmund Freud."
       }
     },
@@ -169,8 +169,8 @@
         "color": "#8B5CF6"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Correlation_matrix.png",
-        "caption": "Matriz de correlación. Cattell usó el análisis factorial matemático (como el de esta imagen conceptual) para descubrir los 16 factores de la personalidad."
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Correlation_matrix.png/640px-Correlation_matrix.png",
+        "caption": "Matriz de correlación (Análisis Factorial)."
       }
     },
     {
@@ -186,7 +186,7 @@
         "color": "#8B5CF6"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hans_Eysenck.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hans_Eysenck.jpg/640px-Hans_Eysenck.jpg",
         "caption": "Hans Eysenck."
       }
     },
@@ -203,8 +203,8 @@
         "color": "#F59E0B"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Repertory_grid_blank.png",
-        "caption": "Rejilla de Repertorio. Esta es la herramienta técnica creada por Kelly para 'mapear' los constructos personales de un individuo."
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Repertory_grid_blank.png/640px-Repertory_grid_blank.png",
+        "caption": "Rejilla de Repertorio (Herramienta de Kelly)."
       }
     },
     {
@@ -220,7 +220,7 @@
         "color": "#F59E0B"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Walter_Mischel.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walter_Mischel.jpg/640px-Walter_Mischel.jpg",
         "caption": "Walter Mischel."
       }
     },
@@ -237,7 +237,7 @@
         "color": "#10B981"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Albert_Bandura_Psychologist.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Albert_Bandura_Psychologist.jpg/640px-Albert_Bandura_Psychologist.jpg",
         "caption": "Albert Bandura."
       }
     },
@@ -255,7 +255,7 @@
         "color": "#10B981"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Big_Five_personality_traits.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Big_Five_personality_traits.png/640px-Big_Five_personality_traits.png",
         "caption": "Modelo de los Cinco Grandes (OCEAN)."
       }
     },
@@ -272,8 +272,8 @@
         "color": "#10B981"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Cognitive-Affective_Processing_System.png",
-        "caption": "Esquema del Sistema Cognitivo-Afectivo (CAPS)."
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cognitive-Affective_Processing_System.png/640px-Cognitive-Affective_Processing_System.png",
+        "caption": "Esquema del Sistema CAPS."
       }
     },
     {
@@ -289,8 +289,8 @@
         "color": "#64748B"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Human_brain_fMRI_activity.jpg",
-        "caption": "Neuroimagen funcional (fMRI). Representa la integración de la biología en el estudio moderno de la individualidad."
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Human_brain_fMRI_activity.jpg/640px-Human_brain_fMRI_activity.jpg",
+        "caption": "Neuroimagen funcional (fMRI)."
       }
     },
     {
@@ -306,8 +306,8 @@
         "color": "#64748B"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/My_Life_Story_book.jpg",
-        "caption": "Identidad Narrativa. El concepto de 'historia de vida' es central en la propuesta integradora de McAdams."
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/My_Life_Story_book.jpg/640px-My_Life_Story_book.jpg",
+        "caption": "Identidad Narrativa."
       }
     }
   ]
